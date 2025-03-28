@@ -1,7 +1,7 @@
 ## 
 ## Ici vous pouvez trouverez des anciens mods pour BG2 mis à jour pour BG2EE et EET et en français.\
-Spécial : il y a parfois des astérisque après le nom. C'est pour un classement rapide : * = cheaté, ** = surchaté.
-
+Spécial : il y a parfois des astérisque après le nom. C'est pour un classement rapide : * = cheaté, ** = surchaté.\
+\
 ## <ins>Des mods de kits ou de pack de kits :</ins>
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : un pack de 30 kits.
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>Prestige Kitpack</a> : un pack de 17 kits.
