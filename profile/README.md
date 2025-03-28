@@ -57,7 +57,7 @@ Des mods d'arêne de combat :
 - <a href=https:https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestiond des pièges.
 - <a href=https:https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : Un familier qui sert vraiment à quelque chose.
 - <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : Améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
-- - <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés*</a> : invoquez des vampires, des spectateurs et d'autre joyeusetés.\
+- <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés*</a> : invoquez des vampires, des spectateurs et d'autre joyeusetés.\
 \
 - Des mods d'objets divers :
 - <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour se téléporter vers n'importe quelle zone de SOA ou TOB.
@@ -65,7 +65,7 @@ Des mods d'arêne de combat :
 - - <a href=https:https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest*</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.
 - <a href=https:https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil**.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.
 - - <a href=https:https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.\
-
+\
 - Des magasins :
 - <a href=https:https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
 - <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : Ajoute un nouveau magasin à Brinnlaw.\
