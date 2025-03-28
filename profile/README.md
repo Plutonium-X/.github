@@ -7,7 +7,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>Prestige Kitpack</a> : un pack de 17 kits.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : inclut 4 kits de guerriers.
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.
-- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : un prêtre avec des compétences arcaniques .
+- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : un prêtre avec des compétences arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : un druide avec de nombreuse capacités arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : un voleur dans le thème de la piraterie (reservé au protagoniste).
@@ -43,7 +43,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace**</a>, le guerrier squelette surcheaté.
 
 ## <ins>Des mods d'arêne de combat :</ins>
-- <a href=https:https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest*</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés
+- <a href=https:https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest*</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.
 - <a href=https:https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City**</a> : un parcours où vous affronterez des milliers d'ennemis, pas pour l'xp mais pour les objets cheatés.
 - <a href=https:https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W**</a> : une arène où vous affronterez des groupes de monstres au choix, pour l'xp et les objets surcheatés.
 
