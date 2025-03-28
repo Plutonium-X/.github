@@ -38,7 +38,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara*</a>, la guerrière vampire qui se transforme en loup vampirique.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis*</a>, le bretteur vampyre.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer*</a>, la guerrière/gage.
-- -<a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha**</a>, la dryade archère.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha**</a>, la dryade archère.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul**</a>, le guerrier/mage avec 2,5M d'xp.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace**</a>, le guerrier squelette surcheaté.
 
@@ -62,7 +62,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des mods d'objets divers : </ins>
 - <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour se téléporter vers n'importe quelle zone de SOA ou TOB.
 - <a href=https:https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : Une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
-- - <a href=https:https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.
+- <a href=https:https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.
 - <a href=https:https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest*</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.
 - <a href=https:https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil**.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.
 
