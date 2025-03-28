@@ -8,7 +8,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : inclut 4 kits de guerriers.
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.
 - <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : un prêtre avec des compétences arcaniques .
-- - <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : un druide avec de nombreuse capacités arcaniques.
+- <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : un druide avec de nombreuse capacités arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : un voleur dans le thème de la piraterie (reservé au protagoniste).
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : un guerrier original.
