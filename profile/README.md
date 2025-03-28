@@ -6,25 +6,25 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : Un pack de 30 kits.
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>Prestige Kitpack</a> : Un pack de 17 kits.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : Inclut 4 kits de guerriers.
-- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : Un paladin plus gurrier que soutien.
+- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : Un paladin plus guerrier que soutien.
 - <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : Un prêtre avec des compétences arcaniques .
+- - <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : Un druide avec de nombreuse capacités arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : Un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : Un voleur dans le thème de la piraterie (reservé au protagoniste).
-- <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : Un druide avec de nombreuse capacités arcaniques.
-- <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : Un guerrier original.\
+- <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : Un guerrier original.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : Un rôdeur métamorphe.
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame*</a> : Un guerrier avec des capacités druidiques/arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics*</a> : les deux mods anciennement disponibles dans le mod Tactics.
-- <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore**</a> : Un rodeur féminin avec des sorts et des capcités abusés.
+- <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore**</a> : Un rodeur féminin avec des sorts et des capacités abusés.
 - <a href=https://github.com/Plutonium-X/KIT_Kensaï_rev>Kensaï revisité</a> : Une variation du kensaï.
 - <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Révision de la classe de Moine</a> : Vrais hlas de moine et Poings magiques plus rapidement.
-- <a href=https://github.com/Plutonium-X/FIGHT_KIT_Semi_Multi>Semi Multi Cleric</a> : Amélioration de kit : donne 23 sorts de prêtre/druide à n'importe quelle mage/barde/ensorceleur.\
+- <a href=https://github.com/Plutonium-X/FIGHT_KIT_Semi_Multi>Semi Multi Cleric*</a> : Amélioration de kit : donne 23 sorts de prêtre/druide à n'importe quelle mage/barde/ensorceleur.\
 
 ## Des mods de PNJ :
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromacien.
-- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé*</a>, la Kensaï demi-divine.
+- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.
+- - <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a>, la Kensaï demi-divine.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia*</a>, l'ensorceleuse et son compagon animal.
-- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.\
 
 ## Des mods de PNJ One day :  
 - <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a>, le voleur/mage mutant et son épée maudite.
