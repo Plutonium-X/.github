@@ -1,6 +1,6 @@
 ## 
 Ici vous pouvez trouverez des anciens mods pour BG2 mis à jour pour BG2EE et EET et en français :\
-Spécial : il y a parfois des astérisque après le nom. c'est pour un classement rapide : * = cheaté, ** = surchaté.
+Spécial : il y a parfois des astérisque après le nom. c'est pour un classement rapide : * = cheaté, ** = surchaté.\
 \
 Des mods de kits ou de pack de kits :\
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : Un paladin plus gurrier que soutien.\
@@ -13,15 +13,15 @@ Des mods de kits ou de pack de kits :\
 - - <a href=https:https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : Inclut 4 kits de guerriers.\
 - <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : Un prêtre avec des compétences arcaniques .\
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : Un prêtre avec de puissantes capacités offensives.\
-- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : Un voleur dans le thème de la piraterie (reservé au protagoniste).\\
+- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : Un voleur dans le thème de la piraterie (reservé au protagoniste).\
 \
 Des mods de PNJ :\
-- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromacien.
-- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé*</a>, la Kensaï demi-divine.
-- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia*</a>, l'ensorceleuse et son compagon animal.
-- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.
-- <a href=https://github.com/Plutonium-X/NPC_Thael>Thael</a>, le voleur/mage mutant et son épée maudite.
-- <a href=https://github.com/Plutonium-X/NPC_Malthis>Malthis</a>, le bretteur vampyre.    - 
+- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromacien.\
+- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé*</a>, la Kensaï demi-divine.\
+- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia*</a>, l'ensorceleuse et son compagon animal.\
+- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.\
+- <a href=https://github.com/Plutonium-X/NPC_Thael>Thael</a>, le voleur/mage mutant et son épée maudite.\
+- <a href=https://github.com/Plutonium-X/NPC_Malthis>Malthis</a>, le bretteur vampyre.\
 \
 Des mods de PNJ One day :  
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara*</a>, la guerrière vampire qui se transforme en loup vampirique.\
