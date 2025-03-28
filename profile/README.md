@@ -6,7 +6,7 @@ Des mods de kits ou de pack de kits :
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : Un pack de 30 kits.
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>Prestige Kitpack</a> : Un pack de 17 kits.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : Inclut 4 kits de guerriers.
-- - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : Un paladin plus gurrier que soutien.
+- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : Un paladin plus gurrier que soutien.
 - <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : Un prêtre avec des compétences arcaniques .
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : Un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : Un voleur dans le thème de la piraterie (reservé au protagoniste).
@@ -40,7 +40,7 @@ Des mods de PNJ One day :
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer*</a>, la guerrière/gage.
 - -<a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha**</a>, la dryade archère.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul**</a>, le guerrier/mage avec 2,5M d'xp.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace**</a>, le guerrier squelette surcheaté.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace**</a>, le guerrier squelette surcheaté.\
 \
 Des mods d'arêne de combat :
 - <a href=https:https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest*</a> : Affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés
@@ -58,7 +58,6 @@ Des mods d'arêne de combat :
 - <a href=https:https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : Un familier qui sert vraiment à quelque chose.
 - <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : Améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
 - - <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés*</a> : invoquez des vampires, des spectateurs et d'autre joyeusetés.\
-
 \
 - Des mods d'objets divers :
 - <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour se téléporter vers n'importe quelle zone de SOA ou TOB.
