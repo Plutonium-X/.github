@@ -69,5 +69,6 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des magasins :	</ins>
 - <a href=https:https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
 - <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : ajoute un nouveau magasin à Brinnlaw.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> inclut aussi 2 marchands abusés.**
 
 
