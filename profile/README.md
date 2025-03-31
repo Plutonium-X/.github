@@ -23,7 +23,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des mods de PNJ :	</ins>
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> le nécromancien.
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> la voleuse.
-- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a> la Kensaï demi-divine.
+- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a> la kensaï demi-divine.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> l'ensorceleuse et son compagon animal.*
 
 ## <ins>Des mods de PNJ One day : </ins> 
@@ -33,7 +33,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> la druidesse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> la guerrière/prêtresse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> le voleur/mage mutant et son épée maudite.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le Skalde.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le skalde.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> la louve voleuse métamorphe.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> la guerrière vampire qui se transforme en loup vampirique.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> le bretteur vampyre.*
@@ -53,14 +53,14 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https:https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : devenez un ogre, un vampire, ou plein d'autres choses.
 - <a href=https:https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : des améliorations de la majorité des combats du jeu.
 - <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Passive Warrior HLAs</a> : les hlas des guerriers deviennent permanents.
-- <a href=https:https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui ne ne servent à rien.
-- <a href=https:https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestiond des pièges.
+- <a href=https:https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui ne ne sinon servent à rien.
+- <a href=https:https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestion des pièges.
 - <a href=https:https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : un familier qui sert vraiment à quelque chose.
 - <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
 - <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés</a> : invoquez des vampires, des spectateurs et d'autres joyeusetés.*
 
 ## <ins>Des mods d'objets divers : </ins>
-- <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour se téléporter vers n'importe quelle zone de SOA ou TOB.
+- <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour vous téléporter vers n'importe quelle zone de SOA ou TOB.
 - <a href=https:https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : Une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
 - <a href=https:https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
 - <a href=https:https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
