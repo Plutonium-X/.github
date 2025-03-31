@@ -38,7 +38,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> la guerrière vampire qui se transforme en loup vampirique.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> le bretteur vampyre.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> la guerrière/mage.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha</a> la dryade archère.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> la dryade archère.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul</a> le guerrier/mage avec 2,5M d'xp.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> le guerrier squelette surcheaté.**
 
