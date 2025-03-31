@@ -21,7 +21,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/FIGHT_KIT_Semi_Multi>Semi Multi Cleric</a> : amélioration de kit : donne 23 sorts de prêtre/druide à n'importe quelle mage/barde/ensorceleur.*
 
 ## <ins>Des mods de PNJ :	</ins>
-- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromacien.
+- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromancien.
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.
 - <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a>, la Kensaï demi-divine.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a>, l'ensorceleuse et son compagon animal.*
