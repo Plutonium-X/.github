@@ -21,26 +21,26 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/FIGHT_KIT_Semi_Multi>Semi Multi Cleric</a> : amélioration de kit : donne 23 sorts de prêtre/druide à n'importe quelle mage/barde/ensorceleur.*
 
 ## <ins>Des mods de PNJ :	</ins>
-- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a>, le nécromancien.
-- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a>, la voleuse.
-- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a>, la Kensaï demi-divine.
-- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a>, l'ensorceleuse et son compagon animal.*
+- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> le nécromancien.
+- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> la voleuse.
+- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a> la Kensaï demi-divine.
+- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> l'ensorceleuse et son compagon animal.*
 
 ## <ins>Des mods de PNJ One day : </ins> 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari</a>, le moine.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius</a>, le skalde.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a>, la voleuse.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a>, la druidesse.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a>, la guerrière/prêtresse.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a>, le voleur/mage mutant et son épée maudite.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a>, le Skalde.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a>, la louve voleuse métamorphe.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a>, la guerrière vampire qui se transforme en loup vampirique.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a>, le bretteur vampyre.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a>, la guerrière/gage.*
-- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha</a>, la dryade archère.**
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul</a>, le guerrier/mage avec 2,5M d'xp.**
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a>, le guerrier squelette surcheaté.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari</a> le moine.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius</a> le skalde.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> la voleuse.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> la druidesse.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> la guerrière/prêtresse.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> le voleur/mage mutant et son épée maudite.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le Skalde.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> la louve voleuse métamorphe.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> la guerrière vampire qui se transforme en loup vampirique.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> le bretteur vampyre.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> la guerrière/mage.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Larsha</a> la dryade archère.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul</a> le guerrier/mage avec 2,5M d'xp.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> le guerrier squelette surcheaté.**
 
 ## <ins>Des mods d'arêne de combat :</ins>
 - <a href=https:https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.*
