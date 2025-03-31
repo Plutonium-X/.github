@@ -44,7 +44,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 
 ## <ins>Des mods d'arêne de combat :</ins>
 - <a href=https:https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.*
-- <a href=https:https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : un parcours où vous affronterez des milliers d'ennemis, pas pour l'xp mais pour les objets cheatés.**
+- <a href=https:https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : un parcours où vous affronterez des milliers d'ennemis, pas pour l'xp mais pour les objets surcheatés.**
 - <a href=https:https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : une arène où vous affronterez des groupes de monstres au choix, pour l'xp et les objets surcheatés.**
 
 ## <ins>Des mods de gameplay :	</ins>
