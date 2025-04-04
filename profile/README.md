@@ -15,7 +15,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics</a> : les deux mods anciennement disponibles dans le mod Tactics.*
 - <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a> : une rôdeuse avec des sorts et des capacités abusés.***
-- <a href=https://github.com/Plutonium-X/KIT_Kensaï_rev>Kensaï revisité</a> : une variation du kensaï.
+- <a href=https://github.com/Plutonium-X/FORK_Kensaï_rev>Kensaï revisité</a> : une variation du kensaï.
 - <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Révision de la classe de Moine</a> : de vrais hlas de moine et des poings qui évoluent plus rapidement.
 - <a href=https://github.com/Plutonium-X/KIT_Semi_Multi>Semi Multi Cleric</a> : amélioration de kit : donne 23 sorts de prêtre/druide à n'importe quelle mage/barde/ensorceleur.*
 
