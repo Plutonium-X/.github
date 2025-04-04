@@ -31,7 +31,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> la voleuse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> la druidesse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> la guerrière/prêtresse.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> le voleur/mage mutant et son épée maudite.
+- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> le voleur/mage mutant et son épée maudite.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le skalde.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> la louve voleuse métamorphe.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> la guerrière vampire qui se transforme en loup vampirique.*
