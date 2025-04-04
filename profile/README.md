@@ -22,7 +22,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des mods de PNJ :	</ins>
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> le nécromancien.
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> la voleuse.
-- <a href=https://github.com/Plutonium-X/NPC_Chloé>Chloé</a> la kensaï demi-divine.
+- <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloé</a> la kensaï demi-divine.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> l'ensorceleuse et son compagon animal.*
 
 ## <ins>Des mods de PNJ One day : </ins> 
