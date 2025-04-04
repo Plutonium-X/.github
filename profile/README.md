@@ -47,27 +47,27 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : une arène où vous affronterez des groupes de monstres au choix, pour l'xp et les objets surcheatés.**
 
 ## <ins>Des mods de gameplay :	</ins>
-- <a href=https:https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : une amélioration du donjon d'Irenicus.
-- <a href=https:https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a> : de nombreux paramétrages originaux.
-- <a href=https:https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : devenez un ogre, un vampire, ou plein d'autres choses.
-- <a href=https:https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : des améliorations de la majorité des combats du jeu.
-- <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Passive Warrior HLAs</a> : les hlas des guerriers deviennent permanents.
-- <a href=https:https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui ne ne sinon servent à rien.
-- <a href=https:https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestion des pièges.
-- <a href=https:https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : un familier qui sert vraiment à quelque chose.
-- <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
-- <a href=https:https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés</a> : invoquez des vampires, des spectateurs et d'autres joyeusetés.*
+- <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : une amélioration du donjon d'Irenicus.
+- <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a> : de nombreux paramétrages originaux.
+- <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : devenez un ogre, un vampire, ou plein d'autres choses.
+- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : des améliorations de la majorité des combats du jeu.
+- <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a> : les hlas des guerriers deviennent permanents.
+- <a href=https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui ne ne sinon servent à rien.
+- <a href=https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestion des pièges.
+- <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : un familier qui sert vraiment à quelque chose.
+- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
+- <a href=https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés</a> : invoquez des vampires, des spectateurs et d'autres joyeusetés.*
 
 ## <ins>Des mods d'objets divers : </ins>
-- <a href=https:https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour vous téléporter vers n'importe quelle zone de SOA ou TOB.
-- <a href=https:https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : Une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
-- <a href=https:https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
-- <a href=https:https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
-- <a href=https:https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.**
+- <a href=https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour vous téléporter vers n'importe quelle zone de SOA ou TOB.
+- <a href=https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : Une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
+- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
+- <a href=https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.**
 
 ## <ins>Des magasins :	</ins>
-- <a href=https:https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
-- <a href=https:https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : ajoute un nouveau magasin à Brinnlaw.
+- <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
+- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : ajoute un nouveau magasin à Brinnlaw.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> inclut aussi 2 marchands abusés.**
 
 
