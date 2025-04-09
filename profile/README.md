@@ -65,7 +65,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
 - <a href=https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.**
 
-## <ins>Des magasins :	</ins>
+## <ins>Des mods de magasins :	</ins>
 - <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : inclut un magasin à Brinnlaw.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : inclut aussi 2 marchands abusés.**
