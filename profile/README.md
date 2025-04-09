@@ -13,7 +13,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : un guerrier original.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
-- <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics</a> : les deux mods anciennement disponibles dans le mod Tactics.*
+- <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics</a> : les deux kits anciennement disponibles dans le mod Tactics.*
 - <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a> : une rôdeuse avec des sorts et des capacités abusés.***
 - <a href=https://github.com/Plutonium-X/KIT_Kensai_Rev>Kensaï revisité</a> : une variation du kensaï.
 - <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Révision de la classe de Moine</a> : de vrais hlas de moine et des poings qui évoluent plus rapidement.
