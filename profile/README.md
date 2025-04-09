@@ -5,13 +5,13 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : un pack de 30 kits.
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>Prestige Kitpack</a> : un pack de 17 kits.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : inclut 4 kits de guerriers.
-- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.
 - <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêtre de Mystra</a> : un prêtre avec des compétences arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Auramaster>Maître de l'Aura</a> : un druide avec de nombreuse capacités arcaniques.
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : un voleur dans le thème de la piraterie (reservé au protagoniste).
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : un guerrier original.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
+- - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.*
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics</a> : les deux kits anciennement disponibles dans le mod Tactics.*
 - <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a> : une rôdeuse avec des sorts et des capacités abusés.***
@@ -68,6 +68,6 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des magasins :	</ins>
 - <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : il vend des gemmes dans l'Antichambre.
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : inclut un magasin à Brinnlaw.
-- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> inclut aussi 2 marchands abusés.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : inclut aussi 2 marchands abusés.**
 
 
