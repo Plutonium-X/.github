@@ -1,4 +1,4 @@
-## Ici vous pouvez trouverez des anciens mods pour BG2 mis à jour pour BG2EE et EET et en français.
+### Ici vous pouvez trouverez des anciens mods pour BG2 mis à jour pour BG2EE et EET et en français.
 Spécial : il y a parfois des astérisque après le nom. C'est pour un classement rapide : * = cheaté, ** = surcheaté.
 
 ## <ins>Des mods de kits ou de pack de kits :</ins>
