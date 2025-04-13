@@ -70,4 +70,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : inclut un magasin à Brinnlaw.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : inclut aussi 2 marchands abusés.**
 
+## <ins>Un mod de quête : </ins>
+- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore le quête du cirque.
+
 
