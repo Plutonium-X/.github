@@ -52,7 +52,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : devenez un ogre, un vampire, ou plein d'autres choses.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : des améliorations de la majorité des combats du jeu.
 - <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a> : les hlas des guerriers deviennent permanents.
-- <a href=https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui ne ne sinon servent à rien.
+- <a href=https://github.com/Plutonium-X/Quete_Oghma>Au service D'oghma</a> : donne une utilité à 3 livres uniques qui sinon ne servent à rien.
 - <a href=https://github.com/Plutonium-X/MISC_Traps>Révision des pièges</a> : de très chouettes options pour faciliter la gestion des pièges.
 - <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : un familier qui sert vraiment à quelque chose.
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
