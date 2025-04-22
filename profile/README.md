@@ -101,7 +101,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> thr necromancer.
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> the thief.
 - <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloe</a> the half-divine kensai.
-- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*
+- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*  
 - 
 ## <ins>One Day NPC mods : </ins> 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari the monk. 
@@ -117,12 +117,12 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer the warrior/mage.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha the archer dryad.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawguli>Mawgul the warrior/mage with 2.5M xp.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace the overcheated skeleton warrior.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace the overcheated skeleton warrior.**  
 - 
 ## <ins>Battle arena mods : </ins>
 - <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
 - <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
-- <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**
+- <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**  
 - 
 ## <ins>Gameplay mods : </ins> 
 - <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : enhances the Irenicus dungeon. 
@@ -134,8 +134,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/MISC_Traps>Trap Revision</a> : some great options to make managing traps easier. 
 - <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentic Mischievous Fairy Dragon</a> : a familiar that really serves a purpose. 
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : improves companion management in Brinnlaw and the Antechamber. 
-- <a href=https://github.com/Plutonium-X/SORTS_Summons>Improved Summons</a> : summon vampires, beholders and other goodies.*
-- 
+- <a href=https://github.com/Plutonium-X/SORTS_Summons>Improved Summons</a> : summon vampires, beholders and other goodies.*  
+
 ## <ins>Items Mods : </ins> 
 - <a href=https://github.com/Plutonium-X/SORT_Teleport>Teleport Without Error</a> : a level 7 spell to teleport you to any area of SOA or TOB. 
 - <a href=https://github.com/Plutonium-X/MISC_Genie>Ribald's Genie</a> : A flute to teleport you to 3 specific merchants and back to where you were. 
