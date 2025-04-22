@@ -141,15 +141,12 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/MISC_Genie>Ribald's Genie</a> : A flute to teleport you to 3 specific merchants and back to where you were. 
 - <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Planar Teleport</a> : A thingy to teleport you to the Planar Sphere and back to where you were.* 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : a wand that can summon a level 15 Wizard Slayer at will.* 
-- <a href=https://github.com/Plutonium-X/MISC_Sigil>Sigil's birthday mod</a> : an amulet that can summon a cheated character of your choice at will.** 
+- <a href=https://github.com/Plutonium-X/MISC_Sigil>Sigil's birthday mod</a> : an amulet that can summon a cheated character of your choice at will.**  
 
 ## <ins>Shop mods : 
 - <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : he sells gems in the Pocket Plane. 
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : includes a shop in Brinnlaw. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : also includes 2 cheated merchants.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : also includes 2 cheated merchants.**  
 
 ## <ins>A Quest mod : </ins> 
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : enhances the circus quest (not in english). 
-
-
-
