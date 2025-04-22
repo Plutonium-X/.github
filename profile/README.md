@@ -11,6 +11,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : un voleur dans le thème de la piraterie (reservé au protagoniste).
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : un guerrier original.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
+- <a href=https://github.com/Plutonium-X/KIT_Elements>Maître des éléments</a> : un druide évocateur et convocateur puissant.
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.*
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Les kits de Tactics</a> : les deux kits anciennement disponibles dans le mod Tactics.*
@@ -88,7 +89,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a> a priest with powerful offensive capabilities. 
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : a thief with a pirate theme (reserved for the protagonist).. 
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a> : an unusual warrior. 
-- <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a> : a shapeshifting ranger. 
+- <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a> : a shapeshifting ranger.
+- <a href=https://github.com/Plutonium-X/KIT_Elements>w³adca ¿ywio³ów</a> : a powerful Invoker and Conjurer druid (not in english).
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a> : a paladin more warrior than support (not in english).* 
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a> a warrior with druidic/arcanic abilities.* 
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Tactics Kits</a> the two kits formerly available in the Tactics mod.* 
