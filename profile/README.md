@@ -102,7 +102,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> the thief.
 - <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloe</a> the half-divine kensai.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*  
-- 
+
 ## <ins>One Day NPC mods : </ins> 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari the monk. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius the skald. 
@@ -117,13 +117,13 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer the warrior/mage.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha the archer dryad.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawguli>Mawgul the warrior/mage with 2.5M xp.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace the overcheated skeleton warrior.**  
-- 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace the overcheated skeleton warrior.**
+ 
 ## <ins>Battle arena mods : </ins>
 - <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
 - <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
 - <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**  
-- 
+
 ## <ins>Gameplay mods : </ins> 
 - <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : enhances the Irenicus dungeon. 
 - <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a> : numerous original tweaks. 
