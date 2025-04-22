@@ -104,20 +104,20 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*  
 
 ## <ins>One Day NPC mods : </ins> 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari the monk. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius the skald. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa the thief. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison the druidess. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma the warrior/priestess (french only). 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael the mutant thief/mage and his cursed sword.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram the skald.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie the wolf thief shapeshifter.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara the vampire warrior who transforms into a vampire wolf.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis the swashbuckler vampyre.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer the warrior/mage.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha the archer dryad.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mawguli>Mawgul the warrior/mage with 2.5M xp.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace the overcheated skeleton warrior.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari</a> the monk. 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius</a> the skald. 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> the thief. 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> the druidess. 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> the warrior/priestess (french only). 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> the mutant thief/mage and his cursed sword.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> the skald.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> the wolf thief shapeshifter.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> the vampire warrior who transforms into a vampire wolf.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> the swashbuckler vampyre.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> the warrior/mage.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> the archer dryad.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mawguli>Mawgul</a> the warrior/mage with 2.5M xp.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> the overcheated skeleton warrior.**
  
 ## <ins>Battle arena mods : </ins>
 - <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
