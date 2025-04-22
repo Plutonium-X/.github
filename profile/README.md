@@ -60,8 +60,8 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 
 ## <ins>Des mods d'objets divers : </ins>
 - <a href=https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour vous téléporter vers n'importe quelle zone de SOA ou TOB.
-- <a href=https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : Une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
-- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : Une bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
+- <a href=https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
+- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : un bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
 - <a href=https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.**
 
@@ -72,5 +72,78 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 
 ## <ins>Un mod de quête : </ins>
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore le quête du cirque.
+
+---------------------------
+---------------------------
+
+## Here you can find old mods for BG2 updated for BG2EE and EET.
+Special: there are sometimes asterisks after the name. This is for quick classification: * = cheated, ** = overcheated.  
+
+## <ins>Kit or kit pack mods: </ins>
+- <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : A pack of 30 kits.  
+- <a href=https://github.com/Plutonium-X/KIT_Prestige>RTT Kitpack</a> : A pack of 30 kits. 
+- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : includes 4 warrior kits. 
+- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêiest of Mystra</a> : a priest with arcane skills. 
+- <a href=https://github.com/Plutonium-X/KIT_Auramaster>Auramaster</a> : a druid with many arcane abilities. 
+- <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a> a priest with powerful offensive capabilities. 
+- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : a thief with a pirate theme (reserved for the protagonist).. 
+- <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a> : an unusual warrior. 
+- <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a> : a shapeshifting ranger. 
+- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a> : a paladin more warrior than support (not in english).* 
+- <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a> a warrior with druidic/arcanic abilities.* 
+- <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Tactics Kits</a> the two kits formerly available in the Tactics mod.* 
+- <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a> : a ranger with abused spells and abilities.*** 
+- <a href=https://github.com/Plutonium-X/KIT_Kensai_Rev>Kensaï Revision</a> : a variation of the kensai. 
+- <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Monk Revision</a> real monk's hlas and fists that evolve faster. 
+- <a href=https://github.com/Plutonium-X/KIT_Semi_Multi>Semi Multi Cleric</a> : Kit upgrade : grants 23 priest/druid spells to any mage/bard/sorcerer.*  
+
+## <ins>NPC mods : </ins> 
+- <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> thr necromancer.
+- <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> the thief.
+- <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloe</a> the half-divine kensai.
+- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.* 
+## <ins>One Day NPC mods : </ins> 
+Yikari the monk. 
+Cassius the skald. 
+Alassa the thief. 
+Allison the druidess. 
+Gemma the warrior/priestess (french only). 
+Thael the mutant thief/mage and his cursed sword.* 
+Mhoram the skald.* 
+Moddie the wolf thief shapeshifter.* 
+Chiara the vampire warrior who transforms into a vampire wolf.* 
+Malthis the swashbuckler vampyre.** 
+Ninafer the warrior/mage.** 
+Larsha the archer dryad.** 
+Mawgul the warrior/mage with 2.5M xp.** 
+Horace the overcheated skeleton warrior.** 
+## <ins>Battle arena mods : </ins>
+Duality's Odd Quest : face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
+Tomoyo and the Underground City : a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
+Umbra Of T.R.O.W : an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.** 
+## <ins>Gameplay mods : </ins> 
+Slightly Improved Ilyich : enhances the Irenicus dungeon. 
+bg2-tweaks-and-tricks : numerous original tweaks. 
+Mortis Mini mod : become an ogre, a vampire or many other things. 
+Revised Battles : improvements to most of the game's battles. 
+Passive Warrior HLAs : warrior hlas become permanent. 
+Au service D'oghma : gives a purpose to 3 unique books that are otherwise useless. 
+Révision des pièges : some great options to make managing traps easier. 
+Authentique Dragon Fée Malicieux : a familiar that really serves a purpose. 
+Homeward Bound : improves companion management in Brinnlaw and the Antechamber. 
+Sorts d'invocations améliorés : summon vampires, beholders and other goodies.* 
+## <ins>Items Mods : </ins> 
+Sort de Téléportation sans erreur : a level 7 spell to teleport you to any area of SOA or TOB. 
+Le Génie de Ribald : A flute to teleport you to 3 specific merchants and back to where you were. 
+Téléporteur vers la Sphère Planaire : A thingy to teleport you to the Planar Sphere and back to where you were.* 
+The Tortured Soul Quest : a wand that can summon a level 15 Wizard Slayer at will.* 
+Mod d'anniversaire du Forum Sigil.cz : an amulet that can summon a cheated character of your choice at will.** 
+## <ins>Shop mods : 
+Mersetek : he sells gems in the Pocket Plane. 
+Homeward Bound : includes a shop in Brinnlaw. 
+Ninafer : also includes 2 cheated merchants.** 
+## <ins>A Quest mod : </ins> 
+Kalah : enhances the circus quest. 
+
 
 
