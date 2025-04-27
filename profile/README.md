@@ -81,23 +81,23 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 Special: there are sometimes asterisks after the name. This is for quick classification: * = cheated, ** = overcheated.  
 
 ## <ins>Kit or kit pack mods: </ins>
-- <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a> : A pack of 30 kits.  
-- <a href=https://github.com/Plutonium-X/KIT_Prestige>RTT Kitpack</a> : A pack of 17 kits. 
-- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : includes 4 warrior kits. 
-- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêiest of Mystra</a> : a priest with arcane skills (french only). 
-- <a href=https://github.com/Plutonium-X/KIT_Auramaster>Auramaster</a> : a druid with many arcane abilities. 
-- <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a> a priest with powerful offensive capabilities. 
-- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : a thief with a pirate theme (reserved for the protagonist).. 
-- <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a> : an unusual warrior. 
-- <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a> : a shapeshifting ranger.
-- <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a> : a powerful Invoker and Conjurer druid (not in english).
-- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a> : a paladin more warrior than support (not in english).* 
-- <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a> a warrior with druidic/arcanic abilities.* 
-- <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Tactics Kits</a> the two kits formerly available in the Tactics mod.* 
-- <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a> : a ranger with abused spells and abilities.*** 
-- <a href=https://github.com/Plutonium-X/KIT_Kensai_Rev>Kensaï Revision</a> : a variation of the kensai. 
-- <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Monk Revision</a> real monk's hlas and fists that evolve faster. 
-- <a href=https://github.com/Plutonium-X/KIT_Semi_Multi>Semi Multi Cleric</a> : Kit upgrade : grants 23 priest/druid spells to any mage/bard/sorcerer.*  
+- <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a>: A pack of 30 kits.  
+- <a href=https://github.com/Plutonium-X/KIT_Prestige>RTT Kitpack</a>: A pack of 17 kits. 
+- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a>: includes 4 warrior kits. 
+- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêiest of Mystra</a>: a priest with arcane skills (french only). 
+- <a href=https://github.com/Plutonium-X/KIT_Auramaster>Auramaster</a>: a druid with many arcane abilities. 
+- <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a>: a priest with powerful offensive capabilities. 
+- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a>: a thief with a pirate theme (reserved for the protagonist).. 
+- <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a>: an unusual warrior. 
+- <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a>: a shapeshifting ranger.
+- <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a>: a powerful Invoker and Conjurer druid (not in english).
+- <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a>: a paladin more warrior than support (not in english).* 
+- <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a>: a warrior with druidic/arcanic abilities.* 
+- <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Tactics Kits</a>: the two kits formerly available in the Tactics mod.* 
+- <a href=https://github.com/Plutonium-X/KIT_Aurore>Aurore</a>: a ranger with abused spells and abilities.*** 
+- <a href=https://github.com/Plutonium-X/KIT_Kensai_Rev>Kensaï Revision</a>: a variation of the kensai. 
+- <a href=https://github.com/Plutonium-X/KIT_Moine_Rev>Monk Revision</a>: real monk's hlas and fists that evolve faster. 
+- <a href=https://github.com/Plutonium-X/KIT_Semi_Multi>Semi Multi Cleric</a>: Kit upgrade : grants 23 priest/druid spells to any mage/bard/sorcerer.*  
 
 ## <ins>NPC mods : </ins> 
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> thr necromancer.
@@ -122,33 +122,33 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> the overcheated skeleton warrior.**
  
 ## <ins>Battle arena mods : </ins>
-- <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
-- <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
-- <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**  
+- <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a>: face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
+- <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a>: a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
+- <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a>: an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**  
 
 ## <ins>Gameplay mods : </ins> 
-- <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : enhances the Irenicus dungeon. 
-- <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a> : numerous original tweaks. 
-- <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : become an ogre, a vampire or many other things. 
-- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : improvements to most of the game's battles. 
-- <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a> warrior hlas become permanent. 
-- <a href=https://github.com/Plutonium-X/Quete_Oghma>The Gift of Oghma</a> : gives a purpose to 3 unique books that are otherwise useless. 
-- <a href=https://github.com/Plutonium-X/MISC_Traps>Trap Revision</a> : some great options to make managing traps easier. 
-- <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentic Mischievous Fairy Dragon</a> : a familiar that really serves a purpose. 
-- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : improves companion management in Brinnlaw and the Antechamber. 
-- <a href=https://github.com/Plutonium-X/SORTS_Summons>Improved Summons</a> : summon vampires, beholders and other goodies.*  
+- <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a>: enhances the Irenicus dungeon. 
+- <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a>: numerous original tweaks. 
+- <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a>: become an ogre, a vampire or many other things. 
+- <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a>: improvements to most of the game's battles. 
+- <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a>: warrior hlas become permanent. 
+- <a href=https://github.com/Plutonium-X/Quete_Oghma>The Gift of Oghma</a>: gives a purpose to 3 unique books that are otherwise useless. 
+- <a href=https://github.com/Plutonium-X/MISC_Traps>Trap Revision</a>: some great options to make managing traps easier. 
+- <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentic Mischievous Fairy Dragon</a>: a familiar that really serves a purpose. 
+- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a>: improves companion management in Brinnlaw and the Antechamber. 
+- <a href=https://github.com/Plutonium-X/SORTS_Summons>Improved Summons</a>: summon vampires, beholders and other goodies.*  
 
 ## <ins>Items Mods : </ins> 
-- <a href=https://github.com/Plutonium-X/SORT_Teleport>Teleport Without Error</a> : a level 7 spell to teleport you to any area of SOA or TOB. 
-- <a href=https://github.com/Plutonium-X/MISC_Genie>Ribald's Genie</a> : A flute to teleport you to 3 specific merchants and back to where you were. 
-- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Planar Teleport</a> : A thingy to teleport you to the Planar Sphere and back to where you were.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : a wand that can summon a level 15 Wizard Slayer at will.* 
-- <a href=https://github.com/Plutonium-X/MISC_Sigil>Sigil's birthday mod</a> : an amulet that can summon a cheated character of your choice at will.**  
+- <a href=https://github.com/Plutonium-X/SORT_Teleport>Teleport Without Error</a>: a level 7 spell to teleport you to any area of SOA or TOB. 
+- <a href=https://github.com/Plutonium-X/MISC_Genie>Ribald's Genie</a>: A flute to teleport you to 3 specific merchants and back to where you were. 
+- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Planar Teleport</a>: A thingy to teleport you to the Planar Sphere and back to where you were.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a>: a wand that can summon a level 15 Wizard Slayer at will.* 
+- <a href=https://github.com/Plutonium-X/MISC_Sigil>Sigil's birthday mod</a>: an amulet that can summon a cheated character of your choice at will.**  
 
 ## <ins>Shop mods : 
-- <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a> : he sells gems in the Pocket Plane. 
-- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : includes a shop in Brinnlaw. 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : also includes 2 cheated merchants.**  
+- <a href=https://github.com/Plutonium-X/SHOP_Mersetek>Mersetek</a>: he sells gems in the Pocket Plane. 
+- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a>: includes a shop in Brinnlaw. 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a>: also includes 2 cheated merchants.**  
 
 ## <ins>A Quest mod : </ins> 
-- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : enhances the circus quest (not in english). 
+- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english). 
