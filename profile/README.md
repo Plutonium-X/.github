@@ -72,7 +72,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : inclut aussi 2 marchands abusés.**
 
 ## <ins>Un mod de quête : </ins>
-- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore le quête du cirque.
+- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore la quête du cirque.
 
 ---------------------------
 ---------------------------
@@ -84,10 +84,10 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a>: A pack of 30 kits.  
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>RTT Kitpack</a>: A pack of 17 kits. 
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a>: includes 4 warrior kits. 
-- <a href=https://github.com/Plutonium-X/KIT_Mystra>Prêiest of Mystra</a>: a priest with arcane skills (french only). 
+- <a href=https://github.com/Plutonium-X/KIT_Mystra>Priest of Mystra</a>: a priest with arcane skills (french only). 
 - <a href=https://github.com/Plutonium-X/KIT_Auramaster>Auramaster</a>: a druid with many arcane abilities. 
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a>: a priest with powerful offensive capabilities. 
-- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a>: a thief with a pirate theme (reserved for the protagonist).. 
+- <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a>: a thief with a pirate theme (reserved for the protagonist).  
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a>: an unusual warrior. 
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a>: a shapeshifting ranger.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a>: a powerful Invoker and Conjurer druid (not in english).
