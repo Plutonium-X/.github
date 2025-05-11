@@ -36,6 +36,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le skalde.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> la louve voleuse métamorphe.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> la guerrière vampire qui se transforme en loup vampirique.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Xardas>Xardas</a> l'archimage nécromancien.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> le bretteur vampyre.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> la guerrière/mage.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> la dryade archère.**
@@ -114,7 +115,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> the mutant thief/mage and his cursed sword.* 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> the skald.* 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Moddie>Moddie</a> the wolf thief shapeshifter.* 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> the vampire warrior who transforms into a vampire wolf.* 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Chiara>Chiara</a> the vampire warrior who transforms into a vampire wolf.*
+- <a href=https://github.com/Plutonium-X/1D_NPC_Xardas>Xardas</a> the necromancer archimage (not in english).**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> the swashbuckler vampyre.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> the warrior/mage.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> the archer dryad.** 
