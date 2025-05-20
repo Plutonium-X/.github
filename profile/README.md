@@ -10,8 +10,8 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Prêtre de Bhaal</a> : un prêtre avec de puissantes capacités offensives.
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a> : un voleur dans le thème de la piraterie (reservé au protagoniste).
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Briserisque</a> : un guerrier original.
-- <a href=https://github.com/Plutonium-X/KIT_Runic>Chantelame runique</a> : un guerrier qui peut lancer des symboles, mots de pouvoirs et autres.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
+- <a href=https://github.com/Plutonium-X/KIT_Runic>Chantelame runique</a> : un guerrier qui peut lancer des symboles, mots de pouvoirs et autres.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Maître des éléments</a> : un druide évocateur et convocateur puissant.
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.*
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
@@ -73,9 +73,9 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : inclut un magasin à Brinnlaw.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> : inclut aussi 2 marchands abusés.**
 
-## <ins>Un mod de quête : </ins>
+## <ins>Des mods de quête : </ins>
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore la quête du cirque.
-
+- <a href=https://github.com/Plutonium-X/QUETE_WISH>Le souhait d'un barde</a> : une nouvelle quête accesible via le sort Souhait limité.
 ---------------------------
 ---------------------------
 
@@ -91,8 +91,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/KIT_Bhaal>Auramaster</a>: a priest with powerful offensive capabilities. 
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a>: a thief with a pirate theme (reserved for the protagonist).  
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a>: an unusual warrior.
-- <a href=https://github.com/Plutonium-X/KIT_Runic>Runic Bladesinger</a> : a warrior who can cast symbols, words of power and more (not in english).
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a>: a shapeshifting ranger.
+- <a href=https://github.com/Plutonium-X/KIT_Runic>Runiczny Pieśniarz Klingi</a>: a warrior who can cast symbols, words of power and more (not in english).
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a>: a powerful Invoker and Conjurer druid (not in english).
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a>: a paladin more warrior than support (not in english).* 
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a>: a warrior with druidic/arcanic abilities.* 
@@ -154,5 +154,6 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a>: includes a shop in Brinnlaw. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a>: also includes 2 cheated merchants.**  
 
-## <ins>A Quest mod : </ins> 
-- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english). 
+## <ins>Quest mods : </ins> 
+- <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english).
+- <a href=https://github.com/Plutonium-X/QUETE_WISH>Niezwykle zyczenie</a>: a new quest accessible via the Limited Wish spell (not in english).
