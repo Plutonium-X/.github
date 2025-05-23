@@ -93,7 +93,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/KIT_Pirate>Pirate</a>: a thief with a pirate theme (reserved for the protagonist).  
 - <a href=https://github.com/Plutonium-X/KIT_Riskbreaker>Riskbreaker</a>: an unusual warrior.
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a>: a shapeshifting ranger.
-- <a href=https://github.com/Plutonium-X/KIT_Runic>Rune Singer of Blades (Runic Bladesinger)</a>: a warrior who can cast symbols, words of power and more.
+- <a href=https://github.com/Plutonium-X/KIT_Runic>Rune Singer of Blades</a>: (Runic Bladesinger) a warrior who can cast symbols, words of power and more.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a>: a powerful Invoker and Conjurer druid (not in english).
 -  <a href=https://github.com/Plutonium-X/KIT_Slime>슬라임 스포일러</a>: a shapeshifting warrior (not in english).* 
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a>: a paladin more warrior than support (not in english).* 
