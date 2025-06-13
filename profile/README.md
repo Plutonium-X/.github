@@ -76,7 +76,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 
 ## <ins>Des mods de quête : </ins>
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore la quête du cirque.
-- <a href=https://github.com/Plutonium-X/QUETE_WISH>Le souhait d'un barde</a> : une nouvelle quête accessible via le sort Souhait limité.
+- <a href=https://github.com/Plutonium-X/QUETE_WISH>Un souhait inhabituel</a> : une nouvelle quête accessible via le sort Souhait limité.
 ---------------------------
 ---------------------------
 
