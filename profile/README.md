@@ -124,7 +124,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> the swashbuckler vampyre.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> the warrior/mage.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> the archer dryad.** 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Mawguli>Mawgul</a> the warrior/mage with 2.5M xp.** 
+- <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul</a> the warrior/mage with 2.5M xp.** 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> the overcheated skeleton warrior.**
  
 ## <ins>Battle arena mods : </ins>
