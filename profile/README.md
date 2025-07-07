@@ -65,7 +65,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des mods d'objets divers : </ins>
 - <a href=https://github.com/Plutonium-X/SORT_Teleport>Sort de Téléportation sans erreur</a> : un sort de niveau 7 pour vous téléporter vers n'importe quelle zone de SOA ou TOB.
 - <a href=https://github.com/Plutonium-X/MISC_Genie>Le Génie de Ribald</a> : une flute pour vous téléporter vers 3 marchands spécifiques et revenir là où vous étiez.
-- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : un bidule pour vous téléporter vers la Sphère planire et revenir là où vous étiez.*
+- <a href=https://github.com/Plutonium-X/MISC_Planar-teleport>Téléporteur vers la Sphère Planaire</a> : un bidule pour vous téléporter vers la Sphère planaire et revenir là où vous étiez.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Tortured>The Tortured Soul Quest</a> : une baguette qui permer d'invoquer à volonté un Tueur de magicien de niveau 15.*
 - <a href=https://github.com/Plutonium-X/MISC_Sigil>Mod d'anniversaire du Forum Sigil.cz</a> : une amulette qui peut invoquer à volonté une personnage cheaté au choix.**
 
