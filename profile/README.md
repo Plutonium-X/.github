@@ -83,7 +83,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## Here you can find old mods for BG2 updated for BG2EE and EET.
 Special: there are sometimes asterisks after the name. This is for quick classification: * = cheated, ** = overcheated.  
 
-## <ins>Kit or kit pack mods: </ins>
+## <ins>Kit or kit pack mods (also available for IWDEE): </ins>
 - <a href=https://github.com/Plutonium-X/KIT_RTT>RTT Kitpack</a>: A pack of 30 kits.  
 - <a href=https://github.com/Plutonium-X/KIT_Prestige>RTT Kitpack</a>: A pack of 17 kits. 
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a>: includes 4 warrior kits. 
