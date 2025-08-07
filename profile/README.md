@@ -42,9 +42,9 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Xardas>Xardas</a> l'archimage nécromancien.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Malthis>Malthis</a> le bretteur vampyre.**
 - <a href=https://github.com/Plutonium-X/1D_NPC_Ninafer>Ninafer</a> la guerrière/mage.**
-- <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> la dryade archère.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> la dryade archère.***
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mawgul>Mawgul</a> le guerrier/mage avec 2,5M d'xp.**
-- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> le guerrier squelette surcheaté.**
+- <a href=https://github.com/Plutonium-X/1D_NPC_Horace>Horace</a> le guerrier squelette surcheaté.***
 
 ## <ins>Des mods d'arêne de combat :</ins>
 - <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.*
