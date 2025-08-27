@@ -47,7 +47,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> la dryade archère.***
 
 ## <ins>Des mods d'arêne de combat :</ins>
-- <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.*
+- <a href=https://github.com/Plutonium-X/FORK_Duality-Odd-Quest-Mod>Duality's Odd Quest</a> : affrontez de nombreux ennemis surcheatés, pour l'xp et si vous êtes chanceux des objets cheatés.*
 - <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a> : un parcours où vous affronterez des milliers d'ennemis, pas pour l'xp mais pour les objets surcheatés.**
 - <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a> : une arène où vous affronterez des groupes de monstres au choix, pour l'xp et les objets surcheatés.**
 
@@ -130,7 +130,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Larsha>Larsha</a> the archer dryad.***
  
 ## <ins>Battle arena mods : </ins>
-- <a href=https://github.com/Plutonium-X/FORK_Duality_Odd_Quest/tree/master>Duality's Odd Quest</a>: face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
+- <a href=https://github.com/Plutonium-X/FORK_Duality-Odd-Quest-Mod>Duality's Odd Quest</a>: face numerous over-cheated enemies, for xp and, if you're lucky, cheated items.* 
 - <a href=https://github.com/Plutonium-X/FIGHT_Tomoyo>Tomoyo and the Underground City</a>: a run where you'll face thousands of enemies, not for xp but for over-cheated items.** 
 - <a href=https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W>Umbra Of T.R.O.W</a>: an arena where you can fight groups of monsters of your choice, for xp and over-cheated items.**  
 
