@@ -158,4 +158,4 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 
 ## <ins>Quest mods : </ins> 
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english).
-- <a href=https://github.com/Plutonium-X/QUETE_WISH>Niezwykle zyczenie</a>: a new quest accessible via the Limited Wish spell (not in english).
+- <a href=https://github.com/Plutonium-X/QUETE_WISH>An unusual wish</a>: a new quest accessible via the Limited Wish spell.
