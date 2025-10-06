@@ -13,6 +13,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
 - <a href=https://github.com/Plutonium-X/KIT_Runic>Chantelame runique</a> : un guerrier qui peut lancer des symboles, mots de pouvoirs et autres.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Maître des éléments</a> : un druide évocateur et convocateur puissant.
+- <a href=https://github.com/Plutonium-X/KIT_Rodeur_Ombres)>Rodeur des ombres</a> : un rodeur qui peut invoquer de puissantes ombres.*
 - <a href=https://github.com/Plutonium-X/KIT_Slime>Mutant de gelée</a> : un guerrier métamorphe.*
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.*
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
@@ -52,7 +53,6 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 
 ## <ins>Des mods de gameplay :	</ins>
 - <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a> : une amélioration du donjon d'Irenicus.
-- <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a> : de nombreux paramétrages originaux.
 - <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a> : devenez un ogre, un vampire, ou plein d'autres choses.
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a> : des améliorations de la majorité des combats du jeu.
 - <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a> : les hlas des guerriers deviennent permanents.
@@ -95,7 +95,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Lion Warrior</a>: a shapeshifting ranger.
 - <a href=https://github.com/Plutonium-X/KIT_Runic>Rune Singer of Blades</a>: (Runic Bladesinger) a warrior who can cast symbols, words of power and more.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Władca Żywiołów</a>: a powerful Invoker and Conjurer druid (not in english).
--  <a href=https://github.com/Plutonium-X/KIT_Slime>슬라임 스포일러</a>: a shapeshifting warrior (not in english).* 
+- <a href=https://github.com/Plutonium-X/KIT_Slime>슬라임 스포일러</a>: a shapeshifting warrior (not in english).*
+- <a href=https://github.com/Plutonium-X/KIT_Rodeur_Ombres>Shadow Ranger</a>: a ranger who can summon powerful shadows.*
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Rycerz Światłości</a>: a paladin more warrior than support (not in english).* 
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Bladesinger</a>: a warrior with druidic/arcanic abilities.* 
 - <a href=https://github.com/Plutonium-X/KIT_Tactics_kits>Tactics Kits</a>: the two kits formerly available in the Tactics mod.* 
@@ -134,7 +135,6 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 
 ## <ins>Gameplay mods : </ins> 
 - <a href=https://github.com/Plutonium-X/FIGHT_Light_Ilyich>Slightly Improved Ilyich</a>: enhances the Irenicus dungeon. 
-- <a href=https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks>bg2-tweaks-and-tricks</a>: numerous original tweaks. 
 - <a href=https://github.com/Plutonium-X/MISC_Mortis>Mortis Mini mod</a>: become an ogre, a vampire or many other things. 
 - <a href=https://github.com/Plutonium-X/FIGHT_Battles>Revised Battles</a>: improvements to most of the game's battles. 
 - <a href=https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs>Passive Warrior HLAs</a>: warrior hlas become permanent. 
