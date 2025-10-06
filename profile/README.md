@@ -13,7 +13,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/KIT_Lion>Guerrier Lion</a> : un rôdeur métamorphe.
 - <a href=https://github.com/Plutonium-X/KIT_Runic>Chantelame runique</a> : un guerrier qui peut lancer des symboles, mots de pouvoirs et autres.
 - <a href=https://github.com/Plutonium-X/KIT_Elements>Maître des éléments</a> : un druide évocateur et convocateur puissant.
-- <a href=https://github.com/Plutonium-X/KIT_Rodeur_Ombres>Rodeur de l'ombre</a> : un rodeur qui peut invoquer de puissantes ombres.*
+- <a href=https://github.com/Plutonium-X/KIT_Rodeur_Ombres>Rodeur de l'ombre</a> : un rôdeur qui peut invoquer de puissantes ombres.*
 - <a href=https://github.com/Plutonium-X/KIT_Slime>Mutant de gelée</a> : un guerrier métamorphe.*
 - <a href=https://github.com/Plutonium-X/KIT_Lumiere>Chevalier de la lumiére</a> : un paladin plus guerrier que soutien.*
 - <a href=https://github.com/Plutonium-X/KIT_Chantelame>Chantelame</a> : un guerrier avec des capacités druidiques/arcaniques.*
