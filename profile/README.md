@@ -29,7 +29,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> l'ensorceleuse et son compagon animal.*
 
 ## <ins>Des mods de PNJ One day : </ins> 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari</a> le moine.
+- <a href=https://github.com/Plutonium-X/Yikari-NPC>Yikari</a> le moine.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius</a> le skalde.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> la voleuse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> la druidesse.
@@ -111,7 +111,7 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*  
 
 ## <ins>One Day NPC mods : </ins> 
-- <a href=https://github.com/Plutonium-X/1D_NPC_Yikari>Yikari</a> the monk. 
+- <a href=https://github.com/Plutonium-X/Yikari-NPC>Yikari</a> the monk. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Cassius>Cassius</a> the skald. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> the thief. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Allison>Allison</a> the druidess. 
