@@ -77,6 +77,8 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 ## <ins>Des mods de quête : </ins>
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a> : améliore la quête du cirque.
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>Un souhait inhabituel</a> : une nouvelle quête accessible via le sort Souhait limité.
+- <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>La ruse la plus vieille du monde, version Kulyok</a> : une des variations du Iron Modder 10
+- <a href=https://github.com/Plutonium-X/IronModder10_Ding0>La ruse la plus vieille du monde, version SimDing0</a> : une autre variation du Iron Modder 10
 ---------------------------
 ---------------------------
 
@@ -159,3 +161,5 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 ## <ins>Quest mods : </ins> 
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english).
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>An unusual wish</a>: a new quest accessible via the Limited Wish spell.
+- - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>The Oldest Trick In The Book, Kulyok version</a>: one of the variations of the Iron Modder 10
+- <a href=https://github.com/Plutonium-X/IronModder10_Ding0>The Oldest Trick In The Book, SimDing0 version</a>: another variations of the Iron Modder 10
