@@ -161,5 +161,5 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 ## <ins>Quest mods : </ins> 
 - <a href=https://github.com/Plutonium-X/QUETE_KALAH>Kalah</a>: enhances the circus quest (not in english).
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>An unusual wish</a>: a new quest accessible via the Limited Wish spell.
-- - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>The Oldest Trick In The Book, Kulyok version</a>: one of the variations of the Iron Modder 10
+- <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>The Oldest Trick In The Book, Kulyok version</a>: one of the variations of the Iron Modder 10
 - <a href=https://github.com/Plutonium-X/IronModder10_Ding0>The Oldest Trick In The Book, SimDing0 version</a>: another variations of the Iron Modder 10
