@@ -79,6 +79,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>Un souhait inhabituel</a> : une nouvelle quête accessible via le sort Souhait limité.
 - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>La ruse la plus vieille du monde, version Kulyok</a> : une des variations du Iron Modder 10
 - <a href=https://github.com/Plutonium-X/IronModder10_Ding0>La ruse la plus vieille du monde, version SimDing0</a> : une autre variation du Iron Modder 10
+- <a href=https://github.com/Plutonium-X/jans_unpacked>Extension de la quête de Jan</a> : version spéciale pour les mobiles et tablettes.
 ---------------------------
 ---------------------------
 
@@ -163,3 +164,4 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>An unusual wish</a>: a new quest accessible via the Limited Wish spell.
 - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>The Oldest Trick In The Book, Kulyok version</a>: one of the variations of the Iron Modder 10
 - <a href=https://github.com/Plutonium-X/IronModder10_Ding0>The Oldest Trick In The Book, SimDing0 version</a>: another variations of the Iron Modder 10
+- <a href=https://github.com/Plutonium-X/jans_unpacked>Jan's Extended Quest</a>: special version for mobile phones and tablets.
