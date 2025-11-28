@@ -80,6 +80,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>La ruse la plus vieille du monde, version Kulyok</a> : une des variations du Iron Modder 10
 - <a href=https://github.com/Plutonium-X/IronModder10_Ding0>La ruse la plus vieille du monde, version SimDing0</a> : une autre variation du Iron Modder 10
 - <a href=https://github.com/Plutonium-X/jans_unpacked>Extension de la quête de Jan</a> : version spéciale pour les mobiles et tablettes.
+- <a href=https://github.com/Plutonium-X/NTotSC>Northern Tales of the Sword Coast</a> : la dernière version en date avec le français révisé par Streen.
 ---------------------------
 ---------------------------
 
