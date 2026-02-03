@@ -27,6 +27,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> la voleuse.
 - <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloé</a> la kensaï demi-divine.
 - <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> l'ensorceleuse et son compagon animal.*
+- <a href=https://github.com/Plutonium-X/NPC_Hendak>Hendak</a> le barbare.
 
 ## <ins>Des mods de PNJ One day : </ins> 
 - <a href=https://github.com/Plutonium-X/Yikari-NPC>Yikari</a> le moine.
@@ -34,7 +35,6 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> la voleuse.
 - <a href=https://github.com/Plutonium-X/FORK_Allison-One-Day-NPC>Allison</a> la druidesse.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> la guerrière/prêtresse.
-- <a href=https://github.com/Plutonium-X/NPC_Hendak>Hendak</a> le barbare.
 - <a href=https://github.com/Plutonium-X/1D_NPC_banana>Banana !</a> la banane guerrière/voleuse/mage.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> le voleur/mage mutant et son épée maudite.*
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> le skalde.*
@@ -113,7 +113,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/NPC_Tsujatha>Tsujatha</a> thr necromancer.
 - <a href=https://github.com/Plutonium-X/NPC_Fade>Fade</a> the thief.
 - <a href=https://github.com/Plutonium-X/NPC_Chloe>Chloe</a> the half-divine kensai.
-- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*  
+- <a href=https://github.com/Plutonium-X/NPC_Tashia>Tashia</a> the sorceress and her animal companion.*
+- <a href=https://github.com/Plutonium-X/NPC_Hendak>Hendak</a> the barbarian (french only).
 
 ## <ins>One Day NPC mods : </ins> 
 - <a href=https://github.com/Plutonium-X/Yikari-NPC>Yikari</a> the monk. 
@@ -121,7 +122,6 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/1D_NPC_Alassa>Alassa</a> the thief. 
 - <a href=https://github.com/Plutonium-X/FORK_Allison-One-Day-NPC>Allison</a> the druidess. 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Gemma>Gemma</a> the warrior/priestess (french only).
-- <a href=https://github.com/Plutonium-X/NPC_Hendak>Hendak</a> the barbarian (french only).
 - <a href=https://github.com/Plutonium-X/1D_NPC_banana>Banana!</a> the warrior/thief/mage banana.
 - <a href=https://github.com/Plutonium-X/1D_NPC_Thael>Thael</a> the mutant thief/mage and his cursed sword.* 
 - <a href=https://github.com/Plutonium-X/1D_NPC_Mhoram>Mhoram</a> the skald.* 
