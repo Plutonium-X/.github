@@ -60,6 +60,7 @@ Spécial : il y a parfois des astérisque après le nom. C'est pour un classemen
 - <a href=https://github.com/Plutonium-X/MISC_Traps>Trap Revision</a> : de très chouettes options pour faciliter la gestion des pièges.
 - <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentique Dragon Fée Malicieux</a> : un familier qui sert vraiment à quelque chose.
 - <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a> : améliore la gestion des compagnons à Brinnlaw et dans l'Antichambre.
+- <a href=https://github.com/Plutonium-X/GAMEPLAY_Sarevok>Sarevok True power</a> : donne à Sarevok dans TOB deux coups spéciaux piqués à Sagat de Street Fighter.
 - <a href=https://github.com/Plutonium-X/SORTS_Summons>Sorts d'invocations améliorés</a> : invoquez des vampires, des spectateurs et d'autres joyeusetés.*
 
 ## <ins>Des mods d'objets divers : </ins>
@@ -147,7 +148,8 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/Quete_Oghma>The Gift of Oghma</a>: gives a purpose to 3 unique books that are otherwise useless. 
 - <a href=https://github.com/Plutonium-X/MISC_Traps>Trap Revision</a>: some great options to make managing traps easier. 
 - <a href=https://github.com/Plutonium-X/MISC_Fairy>Authentic Mischievous Fairy Dragon</a>: a familiar that really serves a purpose. 
-- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a>: improves companion management in Brinnlaw and the Antechamber. 
+- <a href=https://github.com/Plutonium-X/MISC_Homeward>Homeward Bound</a>: improves companion management in Brinnlaw and the Antechamber.
+- <a href=https://github.com/Plutonium-X/GAMEPLAY_Sarevok>Sarevok True power</a>: gives Sarevok in TOB two special moves borrowed from Sagat in Street Fighter.
 - <a href=https://github.com/Plutonium-X/SORTS_Summons>Improved Summons</a>: summon vampires, beholders and other goodies.*  
 
 ## <ins>Items Mods : </ins> 
