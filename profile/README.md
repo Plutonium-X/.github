@@ -169,5 +169,5 @@ Special: there are sometimes asterisks after the name. This is for quick classif
 - <a href=https://github.com/Plutonium-X/QUETE_WISH>An unusual wish</a>: a new quest accessible via the Limited Wish spell.
 - <a href=https://github.com/Plutonium-X/IronModder10_Kulyok>The Oldest Trick In The Book, Kulyok version</a>: one of the variations of the Iron Modder 10
 - <a href=https://github.com/Plutonium-X/IronModder10_Ding0>The Oldest Trick In The Book, SimDing0 version</a>: another variations of the Iron Modder 10
-- <a href=https://github.com/Plutonium-X/QUEST_Anegh>Tales ofAnegh</a>: a quest that will pit you against a horde of monsters.
+- <a href=https://github.com/Plutonium-X/QUEST_Anegh>Tales of Anegh</a>: a quest that will pit you against a horde of monsters.
 - <a href=https://github.com/Plutonium-X/jans_unpacked>Jan's Extended Quest</a>: special version for mobile phones and tablets.
